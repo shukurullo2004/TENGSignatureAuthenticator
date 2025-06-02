@@ -1,5 +1,22 @@
 # TENG-Based Signature Authentication System
+## 👥 Authors
 
+### Course Information
+- **Course**: Digital Signal Processing
+- **Professor**: Kakani Vijay
+- **Institution**: [University Name]
+- **Academic Year**: 2024-2025
+
+### Development Team
+- **[Shukurullo Meliboev](https://github.com/[username])** - Lead Developer & Researcher
+  - System architecture and implementation
+  - Machine learning algorithm development
+  - Data analysis and visualization
+  
+- **[Ilhomov Mansurjon](https://github.com/[username])** - Contributor
+  - Feature engineering
+  - Testing and validation
+  - Documentation support
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-working-brightgreen.svg)](README.md)
@@ -252,24 +269,7 @@ If you find a bug, please open an issue with:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
 
-### Course Information
-- **Course**: Digital Signal Processing
-- **Professor**: Kakani Vijay
-- **Institution**: [University Name]
-- **Academic Year**: 2024-2025
-
-### Development Team
-- **[Shukurullo Meliboev](https://github.com/[username])** - Lead Developer & Researcher
-  - System architecture and implementation
-  - Machine learning algorithm development
-  - Data analysis and visualization
-  
-- **[Ilhomov Mansurjon](https://github.com/[username])** - Contributor
-  - Feature engineering
-  - Testing and validation
-  - Documentation support
 
 ## 📞 Contact
 
